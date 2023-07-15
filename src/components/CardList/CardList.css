@@ -1,0 +1,11 @@
+.Cards-List {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-auto-rows: minmax(200px, auto);
+  gap: 25px;
+  margin: 20px;
+}
+
+.Cards-List .card {
+  font-size: 14px; /* Ajusta el tamaño de la letra deseado */
+}

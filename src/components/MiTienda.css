@@ -1,0 +1,21 @@
+.Estilo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #7B7D7E ;
+  color: #E6EDF0;
+}
+
+.logo-container {
+  width: 100px;
+  margin-right: 10px;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+}
+
+h1, h3 {
+  margin: 0;
+}
